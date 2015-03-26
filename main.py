@@ -1,6 +1,4 @@
 # Michael Mansfield
-# CS 3200 - Assignment 3: Calculator
-# 3 - 12 - 2015
 
 import LexicalAnalyzer
 
